@@ -1,0 +1,20 @@
+book:Must Be Magic author:Patricia Rice date:2002
+book:HIS LITTLE WOMEN : HIS LITTLE WOMEN author:Judith Rossner date:1991
+book:Relatos de Los Inesperado author:Roald Dahl date:1995
+book:McDonald's: Behind the Arches author:John F. Love date:1995
+book:Sirens author:Eric Lustbader date:1991
+book:Granny Dan author:DANIELLE STEEL date:2000
+book:The Day author:Douglas Hobbie date:1996
+book:A Storm of Swords (A Song of Ice and Fire, Book 3) author:GEORGE R.R. MARTIN date:2003
+book:Sincerely, Andy Rooney author:Andy Rooney date:2001
+book:Vox: A Novel author:Nicholson Baker date:1995
+book:Endless Night author:Agatha Christie date:1990
+book:The Night Listener : A Novel author:Armistead Maupin date:2001
+book:Sleeping Partners  (Nine to Five) author:Helen Brooks date:2003
+book:A Well-Timed Enchantment author:Vivian Vande Velde date:1990
+book:Heaven Lake : A Novel author:John Dalton date:2004
+book:The Tommyknockers author:Stephen King date:1994
+book:The Valkyries author:Paulo Coelho date:1996
+book:Elements of Programming With Perl author:Andrew L. Johnson date:1999
+book:The Method of Zen author:EUGEN HERRIGEL date:1974
+book:The Unprotected Witness (Laurel-Leaf Books) author:James Stevenson date:1999
